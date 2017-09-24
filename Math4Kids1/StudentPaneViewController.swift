@@ -13,8 +13,6 @@ class StudentPaneViewController: UIViewController {
     let targetAssignments = 5
     var numLeft = 5
     
-    @IBOutlet weak var numLeft: UILabel!
-    @IBOutlet weak var percentage: UILabel!
     
     override func viewDidLoad() {
         super.viewDidLoad()
