@@ -14,6 +14,7 @@
 		272D7C7D1F76DEA1003C6E6C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 272D7C7B1F76DEA1003C6E6C /* LaunchScreen.storyboard */; };
 		2732C0BA1F76EB090057F04D /* AssignmentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2732C0B91F76EB090057F04D /* AssignmentViewController.swift */; };
 		27E08A7D1F775CD3007EF508 /* StudentPaneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27E08A7C1F775CD3007EF508 /* StudentPaneViewController.swift */; };
+		786BE3B51F777B510077D5A1 /* image.png in Resources */ = {isa = PBXBuildFile; fileRef = 786BE3B41F777B510077D5A1 /* image.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		272D7C7E1F76DEA1003C6E6C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2732C0B91F76EB090057F04D /* AssignmentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssignmentViewController.swift; sourceTree = "<group>"; };
 		27E08A7C1F775CD3007EF508 /* StudentPaneViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentPaneViewController.swift; sourceTree = "<group>"; };
+		786BE3B41F777B510077D5A1 /* image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = image.png; path = Math4Kids1/image.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +44,7 @@
 		272D7C661F76DEA1003C6E6C = {
 			isa = PBXGroup;
 			children = (
+				786BE3B41F777B510077D5A1 /* image.png */,
 				272D7C711F76DEA1003C6E6C /* Math4Kids1 */,
 				272D7C701F76DEA1003C6E6C /* Products */,
 			);
@@ -132,6 +135,7 @@
 				272D7C7D1F76DEA1003C6E6C /* LaunchScreen.storyboard in Resources */,
 				272D7C7A1F76DEA1003C6E6C /* Assets.xcassets in Resources */,
 				272D7C781F76DEA1003C6E6C /* Main.storyboard in Resources */,
+				786BE3B51F777B510077D5A1 /* image.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
